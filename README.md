@@ -1,2 +1,3 @@
 # billing
-Pixiu 1比1功能复刻
+记账软件
+Pixiu 功能复刻
